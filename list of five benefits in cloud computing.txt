@@ -1,0 +1,38 @@
+list of five benefits
+----------------------
+1. Elasticity: for example,online retail management, mainly shopping during holidays,festivals that time the service on cloud will be increased 
+	in this partuicluar time
+2. Scalability: When demands will be high, then the cloud will be able to handle the application users. 
+3. Fault tolerance: At the time of high requirements, if there is any kind of uses such as server faliure opr network faliure, then the 
+	application will accept the bookings continiously. 
+4. High Availability: By deploying an online retail management application on cloud, it will provide high availabilty, that is application 
+	will be avilable as per the requirements
+5. Agility: Deploying on cloud, the application will be able to adopt changes that is when a new feature will be added, the application will 
+be able to adopt it.
+ 
+ 
+ 
+CapEx and OpEx in IT
+In IT, CapEx corresponds to the costs incurred for the purchase of infrastructure, such as hardware (e.g. servers) and equipment, that generally have a lifespan of two to 10 years, depending on the depreciation value. With a CapEx budget item, the business incurs the expense in the present and expects to generate profit in the future.
+OpEx in IT includes costs for SaaS licenses, IaaS subscriptions, contract-based services, internet and utilities. Since OpEx corresponds to current costs, no future benefit to the business is accounted for in an OpEx model.
+
+
+A Public Cloud is Cloud Computing in which the infrastructure and services are owned and operated by a third-party provider and made available to the public over the internet. The public can access and use shared resources, such as servers, storage, and applications and the main thing is you pay for what you used. . Examples of public cloud providers – are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)
+
+A Private Cloud is a cloud computing environment in which the infrastructure and services are owned and operated by a single organization, for example, a company or government, and it is accessed by only authorized users within that organization. Private Cloud organizations have their own data center. private cloud provides a higher level of security. Examples – HPE, Dell, VMware, etc.
+
+A hybrid cloud is a combination of both public and private cloud environments that allows organizations to take advantage of the benefits of both types of clouds. It manages traffic levels during peak usage periods  It can provide greater flexibility, scalability, and cost-effectiveness than using a single cloud environment. Examples – IBM, DataCore Software, Rackspace, Threat Stack, Infinidat, etc
+
+
+Task 3.2)For each cloud model, list one real-world application or scenario where that model would be the most appropriate choice
+ 
+Infrastructure as a Service (IaaS):
+Application: Big Data Analysis
+Scenario: Organizations dealing with large volumes of data can leverage IaaS to store and process data efficiently. Cloud providers offer scalable infrastructure,making it ideal for big data analytics
+Platform as a Service (PaaS):
+Application: Software Development and Testing
+Scenario: PaaS provides a development environment where developers can build, test, and deploy applications without worrying about underlying infrastructure. It’s perfect for rapid development cycles and collaborative software projects.
+Software as a Service (SaaS):
+Application: Customer-Facing Web Apps
+Scenario: SaaS allows users to access software applications over the internet. Business can use Saas for customer relationship management(CRM), email services, and collaboration tools,enhancing user experience and accessibility.
+ 
